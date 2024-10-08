@@ -61,10 +61,3 @@ d3.json("https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json").th
 ### 5. Dynamic Updates
 
 - Update all the plots when a new sample is selected. You can create any layout you prefer for your dashboard.
-
-## Technologies Used
-
-- **HTML/CSS**: For structuring and styling the dashboard.
-- **JavaScript**: For implementing the D3.js and Plotly.js logic.
-- **D3.js**: For data manipulation and loading JSON data.
-- **Plotly.js**: For rendering interactive charts.
